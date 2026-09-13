@@ -90,7 +90,7 @@ For Software:
 ### Project Demo
 # Video
 
-*Video demonstration covering: (1) Stationary idle state, (2) Rear avoidance maneuver, (3) Front escape drive, and (4) Pinch-zone emergency stop*
+(https://drive.google.com/file/d/1DI_EEIT9Bf0EJAyXH_d4P1pb8VHv0UzG/view?usp=drivesdk)
 
 ## Team Contributions
 
