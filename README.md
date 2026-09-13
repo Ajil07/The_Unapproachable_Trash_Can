@@ -87,10 +87,6 @@ cd Useless-Project-3.0
 ### Project Documentation
 
 For Software:
-
-# Picture
-
-
 ### Project Demo
 # Video
 
