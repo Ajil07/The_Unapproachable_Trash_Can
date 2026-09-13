@@ -86,6 +86,21 @@ cd Useless-Project-3.0
 
 ### Project Documentation
 
+#Pictures:
+
+<img width="1280" height="579" alt="Chassis Assembly" src="https://github.com/user-attachments/assets/df3035ff-906c-4ea5-95e2-aab90a93d74c" />
+
+<img width="579" height="1280" alt="Electronics Wiring 1" src="https://github.com/user-attachments/assets/7450b1fe-c954-4351-9548-cb7a8500b1f0" />
+
+<img width="1280" height="579" alt="Electronics Wiring 2" src="https://github.com/user-attachments/assets/57883a09-6a64-49ab-9cd8-149cd431a2de" />
+
+<img width="963" height="1280" alt="Final Assembly" src="https://github.com/user-attachments/assets/fad1d86f-ef3a-4b1b-8e92-375839d085b1" />
+
+<img width="963" height="1280" alt="Final Assembly Front" src="https://github.com/user-attachments/assets/c1938460-82f7-4eb0-bb6c-3c2a66b47f8a" />
+
+<img width="963" height="1280" alt="Final Assembly Rear" src="https://github.com/user-attachments/assets/9f9866cd-ee9d-4ee0-929a-0e6716d7ce19" />
+
+
 For Software:
 ### Project Demo
 # Video
